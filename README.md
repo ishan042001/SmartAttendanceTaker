@@ -1,4 +1,4 @@
-# AttendanceTaker
+# SmartAttendanceTaker
 About the project:
 This application aims at automating the traditional attendance system where attendance is marked manually. This project involves building an attendance system that uses face recognition technology to mark a student as present or absent. Besides just helping to take attendance, it also enables the administrator to send emails to the parents of the absentees so that they know that their child is absent. This practice will help prevent students from bunking their classes.
 
